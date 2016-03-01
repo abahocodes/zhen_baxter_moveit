@@ -1,0 +1,4 @@
+geometry_msgs/Pose[] target_poses
+string[] reference_frames
+---
+bool succeed
