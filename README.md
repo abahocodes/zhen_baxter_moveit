@@ -1,6 +1,9 @@
 zhen_baxter_moveit
 ============
-Get Baxter to pick & place in Gazebo, using Moveit!
+Get Baxter to pick & place in Gazebo, using Moveit! As shown in this video <br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=BPOLWBsOnOQ
+" target="_blank"><img src="http://img.youtube.com/vi/BPOLWBsOnOQ/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="640" height="480" border="10" /></a>
 
 This tutorial is under ROS indigo, Gazebo 2. All packages involved are going to be installed in ~/ros_gazebo_master.
 
