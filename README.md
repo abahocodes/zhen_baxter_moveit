@@ -12,7 +12,7 @@ This tutorial is under ROS indigo, Gazebo 2. All packages involved are going to 
   ```
   $ mkdir -p ~/ros_gazebo_master/src
   $ cd ~/ros_gazebo_master/src 
-  $ wstool init . <br>
+  $ wstool init .
   $ wstool merge https://raw.githubusercontent.com/RethinkRobotics/baxter_simulator/master/baxter_simulator.rosinstall
   $ wstool update
   $ source /opt/ros/indigo/setup.bash
